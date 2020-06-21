@@ -1,3 +1,4 @@
+// this ';' is for ending previous lines os js that could come from another js files
 ;(function(global, $){
     
     var Greetr = function(firstName, lastName, language){
